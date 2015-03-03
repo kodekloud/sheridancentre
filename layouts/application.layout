@@ -154,7 +154,7 @@
     }
     #social_media_wrapper a:hover{
         color:white;
-        background:#93877c;
+        background:#93877c !imporant;
     }
     .map-mouse-over{
     /*set color of store highlight and hover over for SVG map*/
