@@ -148,7 +148,7 @@
                     $('input[name="cm-name"]').attr('value',name);
                     var date = new Date;
                     contest_id = (get_month(date.getMonth())) + date.getFullYear();
-                    $('input[name="cm-f-jrihw"]').attr('value',contest_id);
+                    $('input[name="cm-f-jykykj"]').attr('value',contest_id);
                     if ($("#newsletter_signup").prop("checked") == true){
                         var s = check_email();
                         if (s == true){
