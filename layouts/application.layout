@@ -153,7 +153,7 @@
         
     }
     #social_media_wrapper a:hover{
-        color: #93877c !imporant;
+        color: #93877c !important;
         background:#faba6d;
     }
     .map-mouse-over{
