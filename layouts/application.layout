@@ -152,7 +152,7 @@
     }
     #social_media_wrapper a:hover{
         color:white;
-        background:black;
+        background:#faba6d;;
     }
     .map-mouse-over{
     /*set color of store highlight and hover over for SVG map*/
