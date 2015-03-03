@@ -46,6 +46,7 @@
         $.reject({  
             reject: { all: false, msie: 9 },  
             header: 'Thanks for visiting Sheridan Centre', // Header Text  
+            
             paragraph1: 'Unfortunately your browser is not officially supported with our site', // Paragraph 1  
             paragraph2: 'For the best experience please install one of the many optional browsers below to proceed',  
             closeMessage: 'You may continue using the site however certain features and content may not be accessible. Thank you.',
@@ -296,7 +297,7 @@
                     <div class="checkbox footer_text" style="width:300px">
                         <span>
                         <label for="agree_terms" style="display:none">Agree Terms</label>
-                        <input type="checkbox" class="info_check" id="agree_terms" style="margin-left:-15px; width:15px" required/>&nbsp;I agree to receive emails from 10 Dundas East
+                        <input type="checkbox" class="info_check" id="agree_terms" style="margin-left:-15px; width:15px" required/>&nbsp;I agree to receive emails from Sheridan Centre
                         </span>
                     </div>
                     <button class="btn btn-default feature-item-button"  data-i18n="general.submit">Submit</button>
