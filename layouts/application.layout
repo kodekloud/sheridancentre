@@ -149,10 +149,11 @@
     /*social media icon inner color*/
     #social_media_wrapper a{
         color:#18498d;
+        background: #faba6d;
     }
     #social_media_wrapper a:hover{
         color:white;
-        background:#faba6d;;
+        background:#faba6d;
     }
     .map-mouse-over{
     /*set color of store highlight and hover over for SVG map*/
