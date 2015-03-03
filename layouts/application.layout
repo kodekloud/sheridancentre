@@ -104,7 +104,7 @@
     }
     
     header{
-        
+        background:#faba6d;
     }
     
     .main_window{
