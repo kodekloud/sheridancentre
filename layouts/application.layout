@@ -116,7 +116,9 @@
         text-align:center;
         color:white !important;
     }
-    
+     .view_button {
+        background:#797268 !important;
+    }
     .btn-primary:hover{
         background: #0B555A !important;
         border-color:#004045 !important;
