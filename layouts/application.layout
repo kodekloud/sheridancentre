@@ -175,9 +175,7 @@
         border-bottom:solid 1px #cccccc;
         padding-bottom:10px;
     }
-    .navbar a.navbar-brand img {
-height: 90px !important;
-}
+   
     
     .right_column_header {
         color: #0B555A ;
