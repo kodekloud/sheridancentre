@@ -128,9 +128,7 @@
         color:white;
     }
     
-    .navbar .nav li a:hover {
-color: #b5c8d8 !important;
-}
+   
     
     .site_welcome_msg{
         font-size:22px !important;
@@ -181,7 +179,7 @@ color: #b5c8d8 !important;
     }
     
     .navbar .nav li a:hover {
-        color:#b5c8d8 !important;
+        color:red !important;
     
     }
      .site-map-section a:hover {
