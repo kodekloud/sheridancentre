@@ -160,11 +160,11 @@
     }
     /*inside page banners*/
     .page_banner{
-        background: #988678;
+        background: #938c84;
     }
     
     #description_section{
-        background:#988678;
+        background:#938c84;
     }
     
     .section_header{}
