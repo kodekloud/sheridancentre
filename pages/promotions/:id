@@ -115,7 +115,7 @@
                         val.store_name = store_details.name
                         
                     } else {
-                        val.alt_promo_image_url = "http://kodekloud.s3.amazonaws.com/sites/54b83f086e6f646b45000000/dcd66cb0efbccf1a9dc76822e0b9da23/logo_10dundas.png"
+                        val.alt_promo_image_url = "http://kodekloud.s3.amazonaws.com/sites/54f5ed6c6e6f64534e000000/5ea9c7428579079f5e802630ec24f59f/sheridan.png"
                     }
                     
                 } else {
