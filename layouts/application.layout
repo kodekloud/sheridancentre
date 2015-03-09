@@ -121,6 +121,7 @@
         background: #938c84 !important;
         border-color:#797268 !important;
         text-align:center;
+        color:white !important;
     }
     
     /*menu colors*/
