@@ -166,6 +166,9 @@
         background: #8483af;
     }
     
+    .site_description {
+        color:black;
+    }
     #description_section{
         background:#8483af;
     }
