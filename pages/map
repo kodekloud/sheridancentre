@@ -215,7 +215,7 @@
                     });
                     s.append(f.select("svg"));
                 });
-                var startingMapTransform = 'scale(0.45)';
+                var startingMapTransform = 'scale(0.42)';
                 var startingPanX = 0;
                 var startingPanY = -100;
                 if(isMobile) {
