@@ -217,7 +217,7 @@
                 });
                 var startingMapTransform = 'scale(0.42)';
                 var startingPanX = -50;
-                var startingPanY = -100;
+                var startingPanY = -130;
                 if(isMobile) {
                         startingMapTransform = 'scale(0.5)';
                         startingPanX = -180;
