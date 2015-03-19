@@ -13,6 +13,18 @@
     <div class="inside_page_content">
         <div class="left_column">
             <iframe class="gmap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2892.6760590809554!2d-79.65359819999999!3d43.5299475!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b438b0ffed29d%3A0x424d19596fe02baf!2s2225+Erin+Mills+Pkwy%2C+Sheridan+Centre%2C+Mississauga%2C+ON+L5K+1T9!5e0!3m2!1sen!2sca!4v1425420848768" style="border:0" title="Map">Directions</iframe>
+            <h2>North of Dundas</h2>
+            <p>Take Erin Mills Parkway south towards the QEW. Turn left into the main entrance.</p>
+            
+            <h2>South of QEW</h2>
+            <p>Take Erin Mills Parkway north, passing the QEW overpass. Turn right into the main entrance.</p>
+            
+            <h2>QEW</h2>
+            <p>Take the Erin Mills Parkway North exit. Turn right into the main entrance.</p>
+            
+            <h2>MiWay (Mississauga Transit)</h2>
+            <p>Sheridan Centre is serviced by MiWay bus routes: 13, 31, 110, 230. Contact MiWay at 905-615-4636 to help you plan your trip. MiWay route 13 and taxis also service the Clarkson GO station.</p>
+            
         </div>
         <div class="right_column">
             <p class="right_column_header">centre information</p>
