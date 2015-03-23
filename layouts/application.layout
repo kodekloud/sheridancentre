@@ -123,7 +123,9 @@
         text-align:center;
         color:white !important;
     }
-    
+     p input[type='image']{
+       width:100% !important;
+   }
     /*menu colors*/
     .navbar .nav li a{
         color:white;
