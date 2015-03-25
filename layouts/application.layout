@@ -104,7 +104,7 @@
     }
     
 .navbar a.navbar-brand img {
-    width:190px !important;
+    width:260px !important;
 }
     
     header{
