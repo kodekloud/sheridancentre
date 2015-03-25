@@ -103,6 +103,10 @@
         background:white;
     }
     
+.navbar a.navbar-brand img {
+    width:190px !important;
+}
+    
     header{
         background:#253a80;
     }
