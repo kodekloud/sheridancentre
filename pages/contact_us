@@ -72,6 +72,7 @@
                     <p class="directory_content">{{name}}</p>
                     <p class="directory_content">{{address1}}</p>
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
+                    <p>905-822-0344</p>
                 </script>
             </div>
             
