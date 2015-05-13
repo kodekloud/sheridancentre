@@ -4,10 +4,10 @@
 <div  id="main_content" style="display:none">
     <ul class="breadcrumb">
         <li><a href="/home">Home</a> </li>
-        <li class="active">Events & Kids' Club</li>
+        <li class="active">Events</li>
     </ul>
     <div class="page_banner">
-        Events & Kids' Club
+        Events
     </div>
     <div class="inside_page_content">
         <div class="left_column">
