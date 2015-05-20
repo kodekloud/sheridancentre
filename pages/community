@@ -399,10 +399,10 @@
     	    
     	    
 	        $.ajax({
-                url : "http://mallmaverickstaging.com/send_contact_email",
+                url : "http://mallmaverick.com/send_contact_email",
                 type: "POST",
                 data : { 
-                    'send_to': "ardalan@mobilefringe.com", 
+                    'send_to': "mark@mobilefringe.com", 
                     'subject': "Sheridan Centre Community Rental Form Application", 
                     'body': {
                         "Legal Name of Organization": $('#legalName').val(), 
